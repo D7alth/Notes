@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "e64d998007a02475",
+    "type": "split",
+    "children": [
+      {
+        "id": "82be075047246666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9147a6bf582f0950",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais.md",
+                "staged": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f59b9a56a8233240",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ace905b8b97a1b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35db5b2d9aa5c023",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ab91db298d8bfbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80a46e4215a88d29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6725db31f89606e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b56836462cec8439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "382714ad6367a970",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb5c7725cc350b2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f1a98ff7cfc21ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b4b5ca6021f41d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "da819727b39f2137",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9147a6bf582f0950",
+  "lastOpenFiles": [
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais.md",
+    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Conceitos de nuvem.md",
+    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Tipos de serviços de nuvem.md",
+    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Benefícios da nuvem.md",
+    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Computação em nuvem.md",
+    "[Maquinas virtuais.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Maquinas virtuais.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Functions.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Containers.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Area de trabalho virtual.md",
+    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem",
+    "Projetos/Artigos/Arquitetura de software/Introdução a arquitetura.md",
+    "Projetos/Artigos/Arquitetura de software",
+    "Projetos/Artigos",
+    "Notas técnicas/UML/Introdução ao UML.md",
+    "Notas técnicas/Programação dinâmica/Introdução a programação dinâmica.md",
+    "Notas técnicas/Estrutura de dados/O(n).md",
+    "Notas técnicas/Estrutura de dados/O(N exponencial 2).md",
+    "Notas técnicas/Estrutura de dados/O(1).md",
+    "Notas técnicas/UML",
+    "Notas técnicas/Programação dinâmica",
+    "Notas técnicas/Estrutura de dados",
+    "Notas técnicas"
+  ]
+}
