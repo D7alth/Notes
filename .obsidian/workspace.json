@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "82be075047246666",
+        "id": "759829347efbe598",
         "type": "tabs",
         "children": [
           {
-            "id": "9147a6bf582f0950",
+            "id": "c72de6cf790ada63",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais.md",
-                "staged": true
+                "file": "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas.md"
+              }
             }
           },
           {
@@ -150,8 +155,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9147a6bf582f0950",
+  "active": "c72de6cf790ada63",
   "lastOpenFiles": [
+    "Notas técnicas/Redes/VPN.md",
+    "Notas técnicas/Redes/Getway.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas.md",
+    "Notas técnicas/Redes/Tipos de conexões de VPN/Site a site.md",
+    "Notas técnicas/Redes/Tipos de conexões de VPN",
+    "Notas técnicas/Programação dinâmica/Introdução a programação dinâmica.md",
+    "Notas técnicas/Redes",
     "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais.md",
     "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Conceitos de nuvem.md",
     "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Tipos de serviços de nuvem.md",
@@ -167,7 +179,6 @@
     "Projetos/Artigos/Arquitetura de software",
     "Projetos/Artigos",
     "Notas técnicas/UML/Introdução ao UML.md",
-    "Notas técnicas/Programação dinâmica/Introdução a programação dinâmica.md",
     "Notas técnicas/Estrutura de dados/O(n).md",
     "Notas técnicas/Estrutura de dados/O(N exponencial 2).md",
     "Notas técnicas/Estrutura de dados/O(1).md",
