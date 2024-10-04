@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas.md",
+                "file": "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/ExpressRoute.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.5
   },
   "right": {
     "id": "f6725db31f89606e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas.md",
+                "file": "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/ExpressRoute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas.md",
+                "file": "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/ExpressRoute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas.md"
+                "file": "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/ExpressRoute.md"
               }
             }
           },
@@ -157,23 +157,29 @@
   },
   "active": "c72de6cf790ada63",
   "lastOpenFiles": [
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas Azure.md",
+    "Notas/Dia 26 de setembro de 2024.md",
+    "Notas técnicas/Functional testing.md",
+    "Notas técnicas/Postman",
+    "Notas/Dia 27 de setembro de 2024.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais.md",
+    "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/ExpressRoute.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Containers.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Area de trabalho virtual.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Maquinas virtuais.md",
     "Notas técnicas/Redes/VPN.md",
     "Notas técnicas/Redes/Getway.md",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas.md",
     "Notas técnicas/Redes/Tipos de conexões de VPN/Site a site.md",
     "Notas técnicas/Redes/Tipos de conexões de VPN",
     "Notas técnicas/Programação dinâmica/Introdução a programação dinâmica.md",
     "Notas técnicas/Redes",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais.md",
     "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Conceitos de nuvem.md",
     "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Tipos de serviços de nuvem.md",
     "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Benefícios da nuvem.md",
     "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Computação em nuvem.md",
     "[Maquinas virtuais.md",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Maquinas virtuais.md",
     "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Functions.md",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Containers.md",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Area de trabalho virtual.md",
     "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem",
     "Projetos/Artigos/Arquitetura de software/Introdução a arquitetura.md",
     "Projetos/Artigos/Arquitetura de software",
@@ -184,7 +190,6 @@
     "Notas técnicas/Estrutura de dados/O(1).md",
     "Notas técnicas/UML",
     "Notas técnicas/Programação dinâmica",
-    "Notas técnicas/Estrutura de dados",
-    "Notas técnicas"
+    "Notas técnicas/Estrutura de dados"
   ]
 }
