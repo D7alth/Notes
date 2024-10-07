@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "759829347efbe598",
+        "id": "33e73b07ab8532e5",
         "type": "tabs",
         "children": [
           {
-            "id": "c72de6cf790ada63",
+            "id": "5fe87b97400a75b5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Notas/Dia 07 de Outubro de 2024.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f6725db31f89606e",
@@ -84,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Dia 07 de Outubro de 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Dia 07 de Outubro de 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Dia 07 de Outubro de 2024.md"
+              }
             }
           },
           {
@@ -150,8 +156,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c72de6cf790ada63",
+  "active": "5fe87b97400a75b5",
   "lastOpenFiles": [
+    "Notas/Dia 27 de setembro de 2024.md",
+    "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento/Redundância de Aramazenamento.md",
+    "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento/Contas de armazenamento.md",
+    "Notas/Dia 07 de Outubro de 2024.md",
     "Notas/Dia 26 de setembro de 2024.md",
     "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Maquinas virtuais.md",
     "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais.md",
@@ -165,7 +175,6 @@
     "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas Azure.md",
     "Notas técnicas/Functional testing.md",
     "Notas técnicas/Postman",
-    "Notas/Dia 27 de setembro de 2024.md",
     "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento",
     "Notas técnicas/Redes/VPN.md",
     "Notas técnicas/Redes/Getway.md",
@@ -182,7 +191,6 @@
     "Notas técnicas/UML/Introdução ao UML.md",
     "Notas técnicas/Estrutura de dados/O(n).md",
     "Notas técnicas/Estrutura de dados/O(N exponencial 2).md",
-    "Notas técnicas/Estrutura de dados/O(1).md",
     "Notas técnicas/UML",
     "Notas técnicas/Programação dinâmica",
     "Notas técnicas/Estrutura de dados"
