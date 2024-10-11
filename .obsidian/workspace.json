@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso/Serviços de diretório.md",
+                "file": "Notas/Dia 10 de Outubro de 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso/Serviços de diretório.md",
+                "file": "Notas/Dia 10 de Outubro de 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso/Serviços de diretório.md",
+                "file": "Notas/Dia 10 de Outubro de 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso/Serviços de diretório.md"
+                "file": "Notas/Dia 10 de Outubro de 2024.md"
               }
             }
           },
@@ -157,13 +157,17 @@
   },
   "active": "5fe87b97400a75b5",
   "lastOpenFiles": [
-    "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento/Contas de armazenamento.md",
-    "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso/Serviços de diretório.md",
-    "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso",
-    "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento/Redundância de Aramazenamento.md",
+    "Notas/Dia 27 de setembro de 2024.md",
+    "Notas/Dia 10 de Outubro de 2024.md",
     "Notas/Dia 09 de Outubro de 2024.md",
     "Notas/Dia 07 de Outubro de 2024.md",
-    "Notas/Dia 27 de setembro de 2024.md",
+    "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso/Métodos de autenticação do Azure.md",
+    "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso/Serviços de diretório.md",
+    "Notas técnicas/Patterns/REPR.md",
+    "Notas técnicas/Patterns",
+    "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento/Contas de armazenamento.md",
+    "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso",
+    "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento/Redundância de Aramazenamento.md",
     "Notas/Dia 26 de setembro de 2024.md",
     "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Maquinas virtuais.md",
     "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais.md",
@@ -185,13 +189,9 @@
     "Notas técnicas/Programação dinâmica/Introdução a programação dinâmica.md",
     "Notas técnicas/Redes",
     "[Maquinas virtuais.md",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Functions.md",
     "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem",
-    "Projetos/Artigos/Arquitetura de software/Introdução a arquitetura.md",
     "Projetos/Artigos/Arquitetura de software",
     "Projetos/Artigos",
-    "Notas técnicas/UML/Introdução ao UML.md",
-    "Notas técnicas/UML",
-    "Notas técnicas/Programação dinâmica"
+    "Notas técnicas/UML"
   ]
 }
