@@ -58,6 +58,9 @@ Ao invés de relacionar um token com varias areas, podemos relacionar as "Infras
 
 no processamento da requests, podemos usar o DATA do _'**Root**'_ ou  _'**Roots**'_, que estão relacionados com os nodesIds passados na request, e fazer a relação entre o InfraspeakLocations de cada um, com os tokens que devem ser utilizados. 
 
+**Pontos fortes:**
+Poderiamos diminuir o tamanho da requisição, para apenas o nó requisitado.
+
 ----- 
 
 Pelo visto, existe uma propriedade em "manutenção", dentro do json de data do dt, ela e facilmente acessível, porem, notei que na maior parte dos prédios existem (ate onde eu vi), mas nas areas desses prédios não. 
@@ -128,6 +131,7 @@ Mapeamento dos chamados (failures)
 **Responsável** = included[*].attributes.**full_name**
 **Tipo** = data[*].attributes.**problem_name**
 **Motivo** = data[*].attributes.**description**
+**Atualizado em** = data[*].attributes.**last_status_change_date**  - data[*].attributes.**report_date** 
 
 O tipo de chamado (Operações, eventuais, internos, externos etc...), está relacionado com o nome do problema?
 
