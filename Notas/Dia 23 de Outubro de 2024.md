@@ -131,7 +131,7 @@ Mapeamento dos chamados (failures)
 **Responsável** = included[*].attributes.**full_name**
 **Tipo** = data[*].attributes.**problem_name**
 **Motivo** = data[*].attributes.**description**
-**Atualizado em** = data[*].attributes.**last_status_change_date**  - data[*].attributes.**report_date** 
+**Atualizado em** = data[*].attributes.**update_at**  - data[*].attributes.**report_date** 
 
 O tipo de chamado (Operações, eventuais, internos, externos etc...), está relacionado com o nome do problema?
 

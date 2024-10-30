@@ -14,13 +14,13 @@ Continar as tasks do dia [[Dia 23 de Outubro de 2024]]!
 - [x] Adicionar o novo requisitos de classificação
 - [x] Melhorar forma de como chamar os clients_names nos requesitos
 - [x] Alternativa para validação de local
-- [ ] Tirar duvidas com a Marina
+- [x] Tirar duvidas com a Marina
 	- Filtro de "Última atualização"
 	- Autorização
-- [ ] Montar BDD de autorização
-- [ ] Reunir com a Marina, para falar a respeito.
-- [ ] Pensar em algo para validarmos os locais_ids?
-- [ ] Fazer algumas provas de conceitos com o infraspeak
+- [x] Montar BDD de autorização
+- [x] Reunir com a Marina, para falar a respeito.
+- [x] Pensar em algo para validarmos os locais_ids?
+- [x] Fazer algumas provas de conceitos com o infraspeak
 
 
 
