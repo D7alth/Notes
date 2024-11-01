@@ -140,4 +140,44 @@ Primeiro, filtro de classificação de periocidade, pode ser dado pelo campo de 
 
 Precisamos fazer uma requisição cruzada, primeiramente para os scheduled works, usando o expanded work, e depois para cada um dos works, nesse caso, teriamos quer montar esse relacionamento, de forma que possamos filtrar as os clients.
 
+-----
+### Modelo
 
+**Nome** = work - data[*].attributes.name
+**Data** = ScheduledWork - data[*].attributes.start_date
+**Local** = work - included[0].attributes.full_name
+**Recorrência** = work - data[*].attributes.periodicity
+**Status** = ScheduledWork - data[*].attributes.state
+**Tipo** = work - data[*].attributes.name
+**Observações** = ScheduledWork - data[*].attributes.observation
+
+
+
+
+_Um work pode esta relacionado a varios locais._ Pelo visto, e pego apenas o primeiro item nessa lista de locations.
+
+------
+
+**Organizar as perguntas:** 
+
+- [x] Como e feito esse percentual de SLA dentro das categorias?
+- [ ] O que as observações dentro das preventivas?
+- Qual a abordagem faz sentido usar para buscar as preventivas? 
+
+**Organizar ideias:**
+
+- Como poderíamos buscar os "works" para um cliente especifico de forma eficiente? 
+	- Enitity e Client são as mesmas coisas?
+
+_Não mas os works são relacionados com client, posso usar isso para filtrar a buscar usando o included_
+
+
+Vamos tentar uma nova abordagem, procurar os works relacionados aos locais, e relacionar os works aos schedules a partir disso. 
+
+
+-----
+
+**Caminhos para filtrar os scheduled works aos clients_id:**
+
+Por locations, não tenho relação alguma em que eu encontre os works. 
+Por failures, não tenho relação alguma em que eu encontre os works. 
