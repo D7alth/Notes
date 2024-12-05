@@ -1,5 +1,4 @@
-- [ ] O cliente pode ser qualquer coisa, ele deveria ser relacionado com um prédio? 
-	- ""
+- [x] O cliente pode ser qualquer coisa, ele deveria ser relacionado com um prédio? 
 
 
 https://besx-core-api-staging.azurewebsites.net/facility/scheduled-works?startDate=2024-11-01T00%3A00%3A00Z&endDate=2024-11-29T23%3A59%3A59Z&clients=clients%5B0%5D.clientId%3A129849%26clients%5B0%5D.tokenId%3APORTINARI
@@ -19,7 +18,7 @@ https://besx-core-api-staging.azurewebsites.net/facility/scheduled-works?clients
 
 
 
-- [ ] Verificar como criar um usuário em relação as permissões das paginas de contrato
+- [x] Verificar como criar um usuário em relação as permissões das paginas de contrato
 	1. Usuários criados, sem relação com as Areas, automaticamente não tem permissão (administrador necessário) 
 	2. Apenas administradores podem da permissões
 	3. As permissões "especiais" são dadas manualmente por nós 
