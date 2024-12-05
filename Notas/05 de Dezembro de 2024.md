@@ -8,4 +8,7 @@ Da uma overview sobre:
 - Kafka
 - Polly 
 
+[Orquestração de saga para microsserviços usando o padrão de caixa de saída - InfoQ](https://www.infoq.com/articles/saga-orchestration-outbox/)
+
+
 
