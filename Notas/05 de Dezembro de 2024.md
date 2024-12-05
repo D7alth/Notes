@@ -6,5 +6,6 @@ Da uma overview sobre:
 - Outbox pattern
 - RabbitMQ
 - Kafka
+- Polly 
 
 
