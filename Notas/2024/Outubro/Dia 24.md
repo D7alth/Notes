@@ -1,4 +1,4 @@
-Continar as tasks do dia [[Dia 23 de Outubro de 2024]]!
+Continar as tasks do dia [[Dia 23]]!
 
 - [ ] Entender como funciona o versionamento do JAVA
 - [ ] Assistir algum vídeo sobre, no almoço

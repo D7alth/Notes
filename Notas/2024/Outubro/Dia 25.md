@@ -1,4 +1,4 @@
-Continar as tasks do dia [[Dia 24 de Outubro de 2024]]!
+Continar as tasks do dia [[Dia 24]]!
 
 -----
 

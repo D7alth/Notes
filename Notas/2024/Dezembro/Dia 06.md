@@ -1,0 +1,2 @@
+
+Um orquestrador resolve o problema de coordenação entre os dois contextos sem introduzir acoplamento direto. Ele separa as responsabilidades, mantém os handlers enxutos e preserva o design modular. Isso também segue a filosofia do **Mediator**, onde os handlers não devem conhecer ou depender diretamente de outros handlers ou subdomínios.

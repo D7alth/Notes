@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Dia 24 de Outubro de 2024.md",
+                "file": "Notas/2024/Outubro/Dia 24.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Dia 24 de Outubro de 2024"
+              "title": "Dia 24"
             }
           },
           {
@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/05 de Dezembro de 2024.md",
+                "file": "Notas/2024/Setembro/Dia 27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 de Dezembro de 2024"
+              "title": "Dia 27"
             }
           }
         ],
@@ -208,43 +208,42 @@
   },
   "active": "aaff1f976ac398be",
   "lastOpenFiles": [
-    "Notas/Dia 24 de Outubro de 2024.md",
-    "Notas/Dia 04 de Novembro de 2024.md",
+    "Notas/2024/Setembro/Dia 27 de setembro de 2024.md",
+    "Notas/2024/Setembro/Dia 27.md",
+    "Notas/2024/Setembro/Dia 26.md",
+    "Notas/2024/Outubro/Dia 30.md",
+    "Notas/2024/Outubro/Dia 25.md",
+    "Notas/2024/Outubro/Dia 24.md",
+    "Notas/2024/Outubro/Dia 23.md",
+    "Notas/2024/Outubro/Dia 21.md",
+    "Notas/2024/Outubro/Dia 10.md",
+    "Notas/2024/Outubro/Dia 09.md",
+    "Notas/2024/Outubro/Dia 07.md",
+    "Notas/2024/Novembro/Dia 29.md",
+    "Notas/2024/Novembro/Dia 07.md",
+    "Notas/2024/Novembro/Dia 04.md",
+    "Notas/2024/Novembro/Dia 01.md",
+    "Notas/2024/Dezembro/Dia 04.md",
+    "Notas/2024/Dezembro/Dia 05.md",
+    "Notas/2024/Dezembro/Dia 06.md",
+    "Notas/2024/Dezembro/Dia 09.md",
+    "Notas/2024/Dezembro/Dia 02.md",
+    "Notas/2024/Dezembro",
+    "Notas/2024/Novembro",
+    "Notas/2024/Outubro",
+    "Notas/2024/Setembro",
+    "Notas/2024",
     "_TOC_.md",
-    "Notas/05 de Dezembro de 2024.md",
-    "Notas/04 de Dezembro de 2024.md",
-    "Notas/Dia 27 de novembro de 2024.md",
     "Notas técnicas/Patterns/REPR.md",
-    "Notas/Dia 02 de Dezembro de 2024.md",
     "Notas técnicas/Patterns/SAGA.md",
-    "Notas/Dia 29 de Novembro de 2024.md",
-    "Notas/Dia 07 de Novembro de 2024.md",
-    "Notas/Dia 01 de Novembro de 2024.md",
-    "Notas/Dia 30 de Outubro de 2024.md",
-    "Notas/Dia 23 de Outubro de 2024.md",
-    "Notas/Dia 25 de Outubro de 2024.md",
-    "Notas/Dia 27 de setembro de 2024.md",
-    "Notas/Dia 07 de Outubro de 2024.md",
-    "Notas/Dia 26 de setembro de 2024.md",
     "Notas técnicas/Redes/Modelo OSI.md",
     "[Dia 23 de Outubro de 2024.md",
     "Assets/Pasted image 20241023152747.png",
     "Assets",
     "Assets/Pasted image 20241023091552.png",
-    "Notas/Dia 21 de Outubro de 2024.md",
-    "Notas/Dia 09 de Outubro de 2024.md",
-    "Notas/Dia 10 de Outubro de 2024.md",
-    "Notas técnicas/Redes/Getway.md",
-    "Notas técnicas/Redes/Tipos de conexões de VPN/Site a site.md",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas Azure.md",
     "Notas técnicas/Redes/Sem título",
     "Notas técnicas/Patterns",
     "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso",
-    "Notas técnicas/Postman",
-    "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento",
-    "Notas técnicas/Redes/Tipos de conexões de VPN",
-    "Notas técnicas/Redes",
-    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem",
-    "Projetos/Artigos/Arquitetura de software"
+    "Notas técnicas/Postman"
   ]
 }
