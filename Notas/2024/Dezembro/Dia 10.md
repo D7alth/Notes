@@ -1,0 +1,1 @@
+Perguntar para a Marina, se devemos atribuir as permissões em alguma data especifica? 

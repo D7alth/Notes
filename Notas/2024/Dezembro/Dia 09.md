@@ -10,5 +10,5 @@ Todo list, manhã
 - [x] Diminuir os arquivos para PR
 - [ ] Começar nova PR com novo card de atualização de permissões no blazor
 - [ ] Alterar handler que usavam a estrutura antiga de metricTypeRestrictions 
-- [ ] Arrumar estrutura do Obsidian
+- [x] Arrumar estrutura do Obsidian
 
