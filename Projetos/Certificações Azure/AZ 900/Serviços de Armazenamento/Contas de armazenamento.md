@@ -1,3 +1,5 @@
+#az900
+
 Trata-se dos diretórios lógicos (namespace), da Azure, para agregar os serviços de storage.
 
 Esses namespaces, são completamente exclusivos, seguros e altamente disponíveis, sendo que, eles compõem, junto com o sufixo do tipo de serviço de serviço contratado, um ponto de extremidade, o qual, pode ser acessado tanto por HTTP quanto por HTTPS, além de claro, os SDK da maior parte das linguagens.

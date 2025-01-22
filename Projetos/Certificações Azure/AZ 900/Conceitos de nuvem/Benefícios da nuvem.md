@@ -1,3 +1,4 @@
+#az900
 ### Alta disponibilidade
 
 Como o nome sugere, quando referimos a alta disponibilidade, estamos falando da capacidade de um recurso "X" (webapp, banco, function e etc.) está disponível em relação ao tempo.

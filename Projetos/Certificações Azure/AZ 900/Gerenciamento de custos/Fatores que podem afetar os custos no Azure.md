@@ -1,3 +1,5 @@
+#az900
+
 Existem diversos fatores que influenciam nos preços dentro do **Azure**, desde o tipo de recurso e seu consumo a coisas mais minuciosas e especificas como tipo de conta, região e provisionamento, posso listar por exemplo: 
 
 - Consumo

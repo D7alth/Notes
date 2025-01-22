@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "828bf8f6fd94c9ed",
+        "id": "bce3ee8f936c025d",
         "type": "tabs",
         "children": [
           {
-            "id": "c84358cd9eccfc14",
+            "id": "72eaad652eb66f68",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Notas/2025/Janeiro/Dia 20 de Janeiro de 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dia 20 de Janeiro de 2025"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5110321044922
+    "width": 200
   },
   "right": {
     "id": "f6725db31f89606e",
@@ -150,13 +154,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "bd682c06c55ca72c",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "8ee5db418903d073",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,52 +190,57 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c84358cd9eccfc14",
+  "active": "72eaad652eb66f68",
   "lastOpenFiles": [
-    "Notas/2025/Janeiro/Dia 08 do 01 de 2025.md",
-    "Assets/Pasted image 20250108101154.png",
-    "README.md",
+    "Notas/2025/Janeiro/Dia 20 de Janeiro de 2025.md",
+    "Notas técnicas/Patterns/Mediator.md",
+    "Notas técnicas/Patterns/Publish Subscribe.md",
+    "Notas técnicas/Redes/VPN.md",
+    "Notas técnicas/Redes/Ngrok.md",
+    "Notas técnicas/Redes/Sistemas distribuídos.md",
+    "Notas técnicas/Redes/Multilocátario.md",
+    "Notas técnicas/Redes/Modelo OSI.md",
+    "Notas técnicas/Redes/gRPC.md",
+    "Notas técnicas/Redes/Getway.md",
+    "Notas técnicas/AspNet/Sem título.md",
+    "Notas técnicas/Criação de módulos.md",
+    "Dicionário técnico/DAST.md",
+    "Dicionário técnico/SARIF.md",
+    "Dicionário técnico/SAST.md",
+    "Notas técnicas/Rabbit MQ.md",
+    "Notas técnicas/RPC.md",
+    "Dicionário técnico/Lock Distribuído.md",
+    "Assets/Pasted image 20250117093527.png",
+    "Sem título.md",
+    "Pasted image 20250115140952.png",
+    "Pasted image 20250115101804.png",
+    "Notas técnicas/AspNet/Pipeline MVC.md",
+    "Notas/2025/Janeiro/Dia 09 de Janeiro de 2025.md",
+    "Notas técnicas/AspNet",
     "Assets/Pasted image 20250108170857.png",
-    "Notas técnicas/SAST.md",
     "Assets/Pasted image 20250108101218.png",
-    "Notas/2025/Janeiro/Dia 03 de Janeiro de 2024.md",
+    "Assets/Pasted image 20250108101154.png",
+    "Assets/Pasted image 20241219132922.png",
+    "Assets/Pasted image 20241216123626.png",
+    "Assets/Pasted image 20241023152747.png",
+    "Assets/Pasted image 20241023091552.png",
+    "Notas/2025/Janeiro/Dia 08 do 01 de 2025.md",
+    "Projetos/Certificações Azure/AZ 204/Serviços de Aplicações/Planos se serviços.md",
+    "Projetos/Certificações Azure/AZ 204/Serviços de Aplicações/Overview.md",
+    "Projetos/Certificações Azure/AZ 204/Serviços de Aplicações/Implantação.md",
+    "Dicionário técnico/Workload.md",
+    "Dicionário técnico",
     "Notas/2025/Janeiro",
     "Notas/2025",
-    "Notas técnicas/Rabbit MQ.md",
-    "conflict-files-obsidian-git.md",
-    "Projetos/English/Tenses/Present Simple/Present simple.md",
     "Projetos/English/Tenses/Present Simple",
-    "Projetos/English/Tenses/Overview.md",
     "Projetos/English/Tenses",
     "Projetos/English",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Rede virtual.md",
-    "Projetos/Certificações Azure/AZ 900/Provisionamento de recursos.md",
-    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Calculadora de TCO.md",
-    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Fatores que podem afetar os custos no Azure.md",
-    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Calculadora de preço.md",
     "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos",
-    "Projetos/Certificações Azure/AZ 900/Azure Marketplace.md",
-    "Notas/2024/Novembro/Dia 26 de Novembro de 2024.md",
-    "Notas/2024/Outubro/Dia 22 de outubro de 2024.md",
-    "Notas/2024/Outubro/Dia 15 de Outubro de 2024.md",
-    "Notas/2024/Novembro/Dia 11 de Novembro de 2024.md",
-    "Notas técnicas/RPC.md",
-    "Notas técnicas/Criação de módulos.md",
-    "Notas/2024/Dezembro/Dia 30.md",
-    "Notas técnicas/GRPC.md",
-    "Notas/2024/Dezembro/Dia 19.md",
-    "Notas técnicas/Redes/Sistemas distribuídos.md",
-    "Assets/Pasted image 20241219132922.png",
-    "Notas técnicas/Patterns/Publish Subscribe.md",
-    "Notas técnicas/Sem título",
-    "Assets/Pasted image 20241216123626.png",
     "Projetos/Learn/MAUI/Microsoft/Sem título",
-    "Projetos/Learn/MAUI/Microsoft",
-    "Projetos/Learn/MAUI",
-    "Assets/Pasted image 20241023152747.png",
-    "Assets/Pasted image 20241023091552.png"
+    "Projetos/Learn/MAUI/Microsoft"
   ]
 }

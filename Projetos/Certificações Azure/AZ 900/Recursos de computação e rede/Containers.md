@@ -1,3 +1,4 @@
+#az900
 
 Trata-se, dos recursos de virtualização em containers, oferecidos pela Azure, não tão curiosamente, classificado como um Paas, o que faz sentido, tendo em vista a sua finalidade. 
 

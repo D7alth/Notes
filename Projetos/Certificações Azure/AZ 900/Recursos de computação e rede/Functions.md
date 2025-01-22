@@ -1,3 +1,5 @@
+#az900
+
 Impossível falar de **Functions**, sem mencionar **serveless**, dois conceitos que andam completamente conectados.
 
 O recurso de **Function**, fornecido pela **Azure**, fica em um limiar dubio entre um modelo de PAAS e um modelo de SAAS, ambos descritos em [[Tipos de serviços de nuvem]], isso se da ao fato, de sim, se tratar de uma um recurso, cujo o foco esta em oferecer uma ferramenta para o desenvolvimento.

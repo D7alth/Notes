@@ -1,3 +1,5 @@
+#az900
+
 O serviço prestado de VPN pela Azure, no contexto de cloud herda as mesmas definições gerais do conceito de [[VPN]]
 ### Getways de VPN da Azure
 

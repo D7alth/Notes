@@ -1,3 +1,4 @@
+#az900
 ### Modelo de nuvem privada
 Como o nome sugere, se trata de um modelo 100% privado, normalmente ligado ao modelo  empresarial (enterprise) ou de organização cujo o foco não esta na distribuição dos "**recursos**" fora das dependências físicas ou de infraestrutura.  
 
