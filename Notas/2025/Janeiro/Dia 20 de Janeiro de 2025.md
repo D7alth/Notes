@@ -2,7 +2,7 @@
 - [x] Adicionar em "BUG - FEATURES - IMPROVES" o IMPROVE da paginação das endpoints do infraspeak (@2025-01-20 10:04)  [#2] 
 - [x] Desenhar regras de negocio e TDD do "Create Custom Widget" (@2025-01-20 15:00)
 - [x] Refazer a revisão na PR "Delete widget of dashboard" (@2025-01-13 16:30) 
-- [ ] Criar Handler para criação de "CustomWidgets" (@2025-01-21 11:00)
+- [x] Criar Handler para criação de "CustomWidgets" (@2025-01-21 11:00)
 
 
 ### Anotações das Tasks

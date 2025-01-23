@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "Notas/2025/Janeiro/Dia 20 de Janeiro de 2025.md": [
-      {
-        "title": "Criar Handler para criação de \"CustomWidgets\"",
-        "time": "2025-01-21 11:00",
-        "rowNumber": 4
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
