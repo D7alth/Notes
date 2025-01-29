@@ -41,5 +41,11 @@ app.use(async (context, next) => {
 
 Trata-se da ordem padrão, mas esse fluxo pode ser customizável dependo da necessidade e do tipo de projeto. 
 
+### Exceptions
+
+
+
+
+
 
 

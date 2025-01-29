@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9df51e2f7ece6553",
+        "id": "bff23cfbca66dbf1",
         "type": "tabs",
         "children": [
           {
-            "id": "b6c53b089f20fb9f",
+            "id": "c189857c40e85b55",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "3ccf0677d96f5e96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas técnicas/DDD/Agregados.md",
+                "file": "Notas/2025/Janeiro/Dia 27 de Janeiro de 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agregados"
+              "title": "Dia 27 de Janeiro de 2025"
             }
           }
         ]
@@ -73,7 +83,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,7 +177,7 @@
             }
           },
           {
-            "id": "8ee5db418903d073",
+            "id": "0e2ef9a636f9b0ba",
             "type": "leaf",
             "state": {
               "type": "timer-view",
@@ -194,11 +205,20 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "b6c53b089f20fb9f",
+  "active": "c189857c40e85b55",
   "lastOpenFiles": [
-    "Pasted image 20250123091918.png",
-    "Pasted image 20250123084427.png",
+    "Notas/2025/Janeiro/Dia 29 de Janeiro de 2025.md",
+    "Notas/2025/Janeiro/Dia 27 de Janeiro de 2025.md",
+    "Notas/2025/Janeiro/Dia 20 de Janeiro de 2025.md",
+    "Notas técnicas/AspNet/Pipeline MVC.md",
+    "Notas técnicas/AspNet/Contêiner de depenicas.md",
+    "Assets/Pasted image 20250123091918.png",
+    "Assets/Pasted image 20250117093527.png",
+    "Lembrar/Livros para comprar.md",
     "Notas técnicas/DDD/Agregados.md",
+    "Lembrar/Livros",
+    "Lembrar",
+    "Assets/Pasted image 20250123084427.png",
     "Dicionário técnico/Workload.md",
     "Dicionário técnico/SAST.md",
     "Dicionário técnico/SARIF.md",
@@ -209,7 +229,6 @@
     "Notas técnicas/Patterns/Publish Subscribe.md",
     "Notas técnicas/Patterns/Mediator.md",
     "Transação.md",
-    "Notas/2025/Janeiro/Dia 20 de Janeiro de 2025.md",
     "Notas técnicas/DDD",
     "Notas técnicas/Redes/VPN.md",
     "Notas técnicas/Redes/Ngrok.md",
@@ -218,29 +237,21 @@
     "Notas técnicas/Redes/Modelo OSI.md",
     "Notas técnicas/Redes/gRPC.md",
     "Notas técnicas/Redes/Getway.md",
-    "Notas técnicas/AspNet/Sem título.md",
     "Notas técnicas/Criação de módulos.md",
     "Notas técnicas/Rabbit MQ.md",
-    "Notas técnicas/RPC.md",
-    "Assets/Pasted image 20250117093527.png",
-    "Sem título.md",
     "Pasted image 20250115140952.png",
     "Pasted image 20250115101804.png",
-    "Notas técnicas/AspNet/Pipeline MVC.md",
     "Notas técnicas/AspNet",
     "Assets/Pasted image 20250108170857.png",
     "Assets/Pasted image 20250108101218.png",
     "Assets/Pasted image 20250108101154.png",
     "Assets/Pasted image 20241219132922.png",
     "Assets/Pasted image 20241216123626.png",
-    "Assets/Pasted image 20241023152747.png",
     "Dicionário técnico",
     "Notas/2025/Janeiro",
     "Notas/2025",
     "Projetos/English/Tenses/Present Simple",
     "Projetos/English/Tenses",
-    "Projetos/English",
-    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos",
-    "Projetos/Learn/MAUI/Microsoft/Sem título"
+    "Projetos/English"
   ]
 }
