@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bff23cfbca66dbf1",
+        "id": "4121848c73ad726c",
         "type": "tabs",
         "children": [
           {
-            "id": "c189857c40e85b55",
+            "id": "3afffe1f19ea578a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "3ccf0677d96f5e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/2025/Janeiro/Dia 27 de Janeiro de 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dia 27 de Janeiro de 2025"
             }
           }
         ]
@@ -50,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -83,8 +70,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,13 +191,19 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "c189857c40e85b55",
+  "active": "3afffe1f19ea578a",
   "lastOpenFiles": [
-    "Notas/2025/Janeiro/Dia 29 de Janeiro de 2025.md",
-    "Notas/2025/Janeiro/Dia 27 de Janeiro de 2025.md",
-    "Notas/2025/Janeiro/Dia 20 de Janeiro de 2025.md",
+    "Notas técnicas/AspNet/Entity Framework/Relacionamentos.md",
+    "().md",
+    "Pasted image 20250130152510.png",
     "Notas técnicas/AspNet/Pipeline MVC.md",
     "Notas técnicas/AspNet/Contêiner de depenicas.md",
+    "Notas técnicas/AspNet/Entity Framework/Sem título.md",
+    "Notas técnicas/AspNet/Entity Framework",
+    "Notas/2025/Janeiro/Dia 30 de Janeiro de 2025.md",
+    "Notas/2025/Janeiro/Dia 27 de Janeiro de 2025.md",
+    "Notas/2025/Janeiro/Dia 29 de Janeiro de 2025.md",
+    "Notas/2025/Janeiro/Dia 20 de Janeiro de 2025.md",
     "Assets/Pasted image 20250123091918.png",
     "Assets/Pasted image 20250117093527.png",
     "Lembrar/Livros para comprar.md",
@@ -235,10 +227,6 @@
     "Notas técnicas/Redes/Sistemas distribuídos.md",
     "Notas técnicas/Redes/Multilocátario.md",
     "Notas técnicas/Redes/Modelo OSI.md",
-    "Notas técnicas/Redes/gRPC.md",
-    "Notas técnicas/Redes/Getway.md",
-    "Notas técnicas/Criação de módulos.md",
-    "Notas técnicas/Rabbit MQ.md",
     "Pasted image 20250115140952.png",
     "Pasted image 20250115101804.png",
     "Notas técnicas/AspNet",
@@ -246,12 +234,10 @@
     "Assets/Pasted image 20250108101218.png",
     "Assets/Pasted image 20250108101154.png",
     "Assets/Pasted image 20241219132922.png",
-    "Assets/Pasted image 20241216123626.png",
     "Dicionário técnico",
     "Notas/2025/Janeiro",
     "Notas/2025",
     "Projetos/English/Tenses/Present Simple",
-    "Projetos/English/Tenses",
-    "Projetos/English"
+    "Projetos/English/Tenses"
   ]
 }
