@@ -1,3 +1,5 @@
+#az900
+
 Por padrão o Azure, já guarda varias copias dos mesmos arquivos, para garantir a disponibilidade em casos de problemas técnicos ou desastres, em uma escala menor. 
 
 ### LRS

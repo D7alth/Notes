@@ -1,3 +1,5 @@
+#az204
+
 Os planos de serviços, atuam como "containers" dos [[Webapps]], talvez, não um tipo de "container" de fato, ainda que se fossemos montar um diagrama, os [[Webapps]] estariam dentro dos planos de serviço. 
 
 A ideia geral desse recurso e, definir os recursos que determinada aplicação, webapp, [[Functions]], ou qualquer outra do tipo que se encaixe nesse modelo. Por meio de uma seleção de Tiers de maquinas virtuais. 

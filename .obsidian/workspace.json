@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21040490ece217a3",
+        "id": "4121848c73ad726c",
         "type": "tabs",
         "children": [
           {
-            "id": "6adffadc1d90830c",
+            "id": "3afffe1f19ea578a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,23 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
-          },
-          {
-            "id": "e26240dc08b92f28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas técnicas/Rabbit MQ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rabbit MQ"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -88,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5110321044922
+    "width": 200
   },
   "right": {
     "id": "f6725db31f89606e",
@@ -165,13 +151,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "bd682c06c55ca72c",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "0e2ef9a636f9b0ba",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,50 +187,57 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "e26240dc08b92f28",
+  "active": "3afffe1f19ea578a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Projetos/English/Tenses/Present Simple/Present simple.md",
-    "Projetos/English/Tenses/Present Simple",
-    "Projetos/English/Tenses/Overview.md",
-    "Projetos/English/Tenses",
-    "Projetos/English",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Rede virtual.md",
-    "Projetos/Certificações Azure/AZ 900/Provisionamento de recursos.md",
-    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Calculadora de TCO.md",
-    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Fatores que podem afetar os custos no Azure.md",
-    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Calculadora de preço.md",
-    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos",
-    "Projetos/Certificações Azure/AZ 900/Azure Marketplace.md",
-    "Notas/Dia 26 de Novembro de 2024.md",
-    "Notas/Dia 22 de outubro de 2024.md",
-    "Notas/Dia 15 de Outubro de 2024.md",
-    "Notas/Dia 11 de Novembro de 2024.md",
-    "Notas técnicas/RPC.md",
-    "Notas técnicas/Criação de módulos.md",
-    "Notas/2024/Dezembro/Dia 30.md",
-    "Notas técnicas/GRPC.md",
-    "Notas/2024/Dezembro/Dia 19.md",
-    "Notas técnicas/Redes/Sistemas distribuídos.md",
-    "Notas técnicas/Rabbit MQ.md",
-    "Assets/Pasted image 20241219132922.png",
+    "Notas técnicas/AspNet/Entity Framework/Relacionamentos.md",
+    "().md",
+    "Pasted image 20250130152510.png",
+    "Notas técnicas/AspNet/Pipeline MVC.md",
+    "Notas técnicas/AspNet/Contêiner de depenicas.md",
+    "Notas técnicas/AspNet/Entity Framework/Sem título.md",
+    "Notas técnicas/AspNet/Entity Framework",
+    "Notas/2025/Janeiro/Dia 30 de Janeiro de 2025.md",
+    "Notas/2025/Janeiro/Dia 27 de Janeiro de 2025.md",
+    "Notas/2025/Janeiro/Dia 29 de Janeiro de 2025.md",
+    "Notas/2025/Janeiro/Dia 20 de Janeiro de 2025.md",
+    "Assets/Pasted image 20250123091918.png",
+    "Assets/Pasted image 20250117093527.png",
+    "Lembrar/Livros para comprar.md",
+    "Notas técnicas/DDD/Agregados.md",
+    "Lembrar/Livros",
+    "Lembrar",
+    "Assets/Pasted image 20250123084427.png",
+    "Dicionário técnico/Workload.md",
+    "Dicionário técnico/SAST.md",
+    "Dicionário técnico/SARIF.md",
+    "Dicionário técnico/Lock Distribuído.md",
+    "Dicionário técnico/DAST.md",
+    "Notas técnicas/Patterns/SAGA.md",
+    "Notas técnicas/Patterns/REPR.md",
     "Notas técnicas/Patterns/Publish Subscribe.md",
-    "Notas técnicas/DAST.md",
-    "Notas técnicas/SAST.md",
-    "Notas técnicas/SARIF.md",
-    "Notas/2024/Dezembro/Dia 18.md",
-    "Notas técnicas/Lock Distribuído.md",
-    "Notas técnicas/Sem título",
-    "Assets/Pasted image 20241216123626.png",
-    "Projetos/Learn/MAUI/Microsoft/Sem título",
-    "Projetos/Learn/MAUI/Microsoft",
-    "Projetos/Learn/MAUI",
-    "Projetos/Learn",
-    "Projetos/Certificações Azure/AZ 204/Serviços de Aplicações",
-    "Assets/Pasted image 20241023152747.png",
-    "Assets/Pasted image 20241023091552.png"
+    "Notas técnicas/Patterns/Mediator.md",
+    "Transação.md",
+    "Notas técnicas/DDD",
+    "Notas técnicas/Redes/VPN.md",
+    "Notas técnicas/Redes/Ngrok.md",
+    "Notas técnicas/Redes/Sistemas distribuídos.md",
+    "Notas técnicas/Redes/Multilocátario.md",
+    "Notas técnicas/Redes/Modelo OSI.md",
+    "Pasted image 20250115140952.png",
+    "Pasted image 20250115101804.png",
+    "Notas técnicas/AspNet",
+    "Assets/Pasted image 20250108170857.png",
+    "Assets/Pasted image 20250108101218.png",
+    "Assets/Pasted image 20250108101154.png",
+    "Assets/Pasted image 20241219132922.png",
+    "Dicionário técnico",
+    "Notas/2025/Janeiro",
+    "Notas/2025",
+    "Projetos/English/Tenses/Present Simple",
+    "Projetos/English/Tenses"
   ]
 }

@@ -1,3 +1,4 @@
+#az900
 
 A ideia de maquinas virtuais, se trata de um recurso do modelo de IAAS, onde essencialmente, na criação de tal, espera-se um servidor, altamente configurável e personalizável. 
 

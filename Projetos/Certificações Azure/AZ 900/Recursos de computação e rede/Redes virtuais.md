@@ -1,3 +1,5 @@
+#az900
+
 Me parece um recurso análogo a uma rede corporativa local, ou como seria estruturada pensando em um ambiente on-premise, certamente, adaptado para o contexto de cloud. 
 
 Basicamente conceitos gerais de gerenciamento de redes, tais quais como, criação de grupos de redes menores dentro de um range de IP (subnets), ou a configuração de rede para [[Maquinas virtuais]] especificas. Podem ser herdados, em termos gerais de comportamento. 

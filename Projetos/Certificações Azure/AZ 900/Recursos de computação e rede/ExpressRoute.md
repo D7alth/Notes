@@ -1,3 +1,5 @@
+#az900 
+
 Esse serviço tem semelhanças com os conceitos de [[VPN]], trazendo uma nova perspectiva, onde para cenários que faça sentido "alugar", um "Link" privado para fazer a comunicação entre a rede local e os data centers da Microsoft. 
 
 De certa forma, também e irrefutável a semelhança, pelo menos conceitual com os conceitos de conexões [[Site a site]], porem sem a necessidade de transferência de dados por rede publica. 

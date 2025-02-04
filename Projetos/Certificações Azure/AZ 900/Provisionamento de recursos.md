@@ -1,3 +1,5 @@
+#az900
+
 Esse conceito, diz respeito, a alocação (instanciação) recursos relacionados para a instanciação de recurso selecionado.
 
 Quando alocamos ou melhor dizendo, instanciamos, um serviço, a **Azure** automaticamente "separa", recursos relacionados, que são de importância para o funcionamento do recurso instanciado. 

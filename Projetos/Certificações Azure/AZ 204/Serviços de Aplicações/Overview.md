@@ -1,4 +1,6 @@
-Os serviços de Aplicação do Azure, e um serviço baseado em HTTP, que por padrão, disponibiliza um [[Ponto de Extremidade]], para uma aplicação ou [["Workload"]], acessível. 
+#az204
+
+Os serviços de Aplicação do Azure, e um serviço baseado em HTTP, que por padrão, disponibiliza um Ponto de Extremidade, para uma aplicação ou "[[Workload]]", acessível. 
 
 Também proveem **suporte a dimensionamento integrado de forma automática**, tanto vertical quanto horizontalmente. Onde para cada progressão entre os Tiers, e criado uma nova copia da aplicação/workload.
 
@@ -9,3 +11,4 @@ Também proveem **suporte a dimensionamento integrado de forma automática**, ta
 **Suporte a implantação por container**, tanto a uma biblioteca de imagens privadas providas e configuradas pela Microsoft, quanto a implantação por imagens do próprio docker hub.
 
 Todas as features suportadas acima, estão disponíveis para servidores baseados em Windows e Linux. Com algumas ressalvas para ambientes Linux. 
+

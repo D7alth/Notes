@@ -1,3 +1,4 @@
+#az900
 ### IAAS
 Infraestrutura como serviço, estamos falando em "alugarmos" de fato, a infraestrutura na sua forma mais básica possível, onde nós como os requisitantes desse serviço temos a responsabilidade de configurar, manter e assegurar que funcione todos os aspectos, que não sejam relacionados com o hardware, isso e responsabilidade do provedor do IAAS, tais como gastos com hardware, ambiente físico, refrigeração, e configurações a nível de equipamento, como conectividade a rede, segurança física, e etc.
 
