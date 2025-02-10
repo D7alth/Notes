@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "e64d998007a02475",
+    "id": "5fa44061c4d2d647",
     "type": "split",
     "children": [
       {
-        "id": "4121848c73ad726c",
+        "id": "31b345aeeedbb9bb",
         "type": "tabs",
         "children": [
           {
-            "id": "3afffe1f19ea578a",
+            "id": "88a703ed974feb36",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f59b9a56a8233240",
+    "id": "b6ebf97ce2c96cfe",
     "type": "split",
     "children": [
       {
-        "id": "5ace905b8b97a1b0",
+        "id": "d624abf867ca15f3",
         "type": "tabs",
         "children": [
           {
-            "id": "35db5b2d9aa5c023",
+            "id": "0c999dba5aed978e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "8ab91db298d8bfbe",
+            "id": "8e27f281694a4c83",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#AspNet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "80a46e4215a88d29",
+            "id": "383ae2f341dce925",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 341.5
   },
   "right": {
-    "id": "f6725db31f89606e",
+    "id": "772d919af21adf63",
     "type": "split",
     "children": [
       {
-        "id": "b56836462cec8439",
+        "id": "816e0ccdcd264f8a",
         "type": "tabs",
         "children": [
           {
-            "id": "382714ad6367a970",
+            "id": "868dd5cec46baf3f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Sem título 1.md",
+                "file": "Workspace/Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Calculadora de TCO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Sem título 1"
+              "title": "Links inversos para Calculadora de TCO"
             }
           },
           {
-            "id": "fb5c7725cc350b2c",
+            "id": "8b08e142f51aa703",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Sem título 1.md",
+                "file": "Workspace/Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Calculadora de TCO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Sem título 1"
+              "title": "Links de saída para Calculadora de TCO"
             }
           },
           {
-            "id": "8f1a98ff7cfc21ba",
+            "id": "b47db0f61fb0cf72",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,19 +131,21 @@
             }
           },
           {
-            "id": "5b4b5ca6021f41d9",
+            "id": "f9b6bbded960e00c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Sem título 1.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título 1"
+              "title": "Sumário"
             }
           },
           {
-            "id": "da819727b39f2137",
+            "id": "c63c9fc407afabc6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -151,33 +153,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "bd682c06c55ca72c",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
-          },
-          {
-            "id": "0e2ef9a636f9b0ba",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,57 +169,59 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "obsidian-kanban:Criar um novo quadro": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3afffe1f19ea578a",
+  "active": "0c999dba5aed978e",
   "lastOpenFiles": [
-    "Notas técnicas/AspNet/Entity Framework/Relacionamentos.md",
-    "().md",
-    "Pasted image 20250130152510.png",
-    "Notas técnicas/AspNet/Pipeline MVC.md",
-    "Notas técnicas/AspNet/Contêiner de depenicas.md",
-    "Notas técnicas/AspNet/Entity Framework/Sem título.md",
-    "Notas técnicas/AspNet/Entity Framework",
-    "Notas/2025/Janeiro/Dia 30 de Janeiro de 2025.md",
-    "Notas/2025/Janeiro/Dia 27 de Janeiro de 2025.md",
-    "Notas/2025/Janeiro/Dia 29 de Janeiro de 2025.md",
-    "Notas/2025/Janeiro/Dia 20 de Janeiro de 2025.md",
+    "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento/Redundância de Aramazenamento.md",
+    "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento/Contas de armazenamento.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas Azure.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Maquinas virtuais.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Functions.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/ExpressRoute.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Containers.md",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Area de trabalho virtual.md",
+    "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso/Serviços de diretório.md",
+    "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso/Métodos de autenticação do Azure.md",
+    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Fatores que podem afetar os custos no Azure.md",
+    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Calculadora de TCO.md",
+    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Calculadora de preço.md",
+    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Tipos de serviços de nuvem.md",
+    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Conceitos de nuvem.md",
+    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Computação em nuvem.md",
+    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Benefícios da nuvem.md",
+    "Projetos/Certificações Azure/AZ 204/Serviços de Aplicações/Planos se serviços.md",
+    "Projetos/English/Tenses/Present Simple/Present simple.md",
+    "Projetos/Certificações Azure/AZ 204/Serviços de Aplicações/Implantação.md",
+    "Projetos/Certificações Azure/AZ 204/Serviços de Aplicações/Overview.md",
+    "Projetos/Freelas/Bike/Sem título.md",
+    "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento",
+    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede",
+    "Projetos/Certificações Azure/AZ 900/Provisionamento de recursos.md",
+    "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso",
+    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos",
+    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem",
+    "Projetos/Certificações Azure/AZ 900/Azure Marketplace.md",
+    "Projetos/Certificações Azure/AZ 204/Serviços de Aplicações",
+    "Projetos/English/Tenses/Present Simple",
+    "Projetos/English/Tenses/Overview.md",
+    "Projetos/Freelas/Bike",
+    "Projetos/Certificações Azure/AZ 900",
+    "Projetos/Certificações Azure/AZ 204",
+    "Assets/Pasted image 20250130152510.png",
     "Assets/Pasted image 20250123091918.png",
-    "Assets/Pasted image 20250117093527.png",
-    "Lembrar/Livros para comprar.md",
-    "Notas técnicas/DDD/Agregados.md",
-    "Lembrar/Livros",
-    "Lembrar",
     "Assets/Pasted image 20250123084427.png",
-    "Dicionário técnico/Workload.md",
-    "Dicionário técnico/SAST.md",
-    "Dicionário técnico/SARIF.md",
-    "Dicionário técnico/Lock Distribuído.md",
-    "Dicionário técnico/DAST.md",
-    "Notas técnicas/Patterns/SAGA.md",
-    "Notas técnicas/Patterns/REPR.md",
-    "Notas técnicas/Patterns/Publish Subscribe.md",
-    "Notas técnicas/Patterns/Mediator.md",
-    "Transação.md",
-    "Notas técnicas/DDD",
-    "Notas técnicas/Redes/VPN.md",
-    "Notas técnicas/Redes/Ngrok.md",
-    "Notas técnicas/Redes/Sistemas distribuídos.md",
-    "Notas técnicas/Redes/Multilocátario.md",
-    "Notas técnicas/Redes/Modelo OSI.md",
-    "Pasted image 20250115140952.png",
-    "Pasted image 20250115101804.png",
-    "Notas técnicas/AspNet",
+    "Assets/Pasted image 20250117093527.png",
     "Assets/Pasted image 20250108170857.png",
     "Assets/Pasted image 20250108101218.png",
     "Assets/Pasted image 20250108101154.png",
     "Assets/Pasted image 20241219132922.png",
-    "Dicionário técnico",
-    "Notas/2025/Janeiro",
-    "Notas/2025",
-    "Projetos/English/Tenses/Present Simple",
-    "Projetos/English/Tenses"
+    "Assets/Pasted image 20250107162256.png",
+    "Assets/Pasted image 20241216123626.png",
+    "AZ 900/Sem título.canvas",
+    "Sem título.canvas"
   ]
 }
