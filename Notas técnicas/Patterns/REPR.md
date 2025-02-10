@@ -10,5 +10,5 @@ Esse componente, geralmente e dividido em 3 sub-componentes:
 
 E completamente visível, que o padrão existe nas lacunas que o [[MVC]] tem. Sempre pareceu muito contra intuitivo criar API's, cuja não existe uma VIEW propriamente dita, onde seria executada a logica da aplicação, pelo menos no modelo [[MVC]]. 
 
-Sem contar com a tendencia deles de com o aumentar do projeto, ficar cada vez com mais dependências e mais inchados, isso causa uma enorme dificuldade de manutenção dos controllers, onde existe intricadamente no conceito do controller uma violação do [[SRP]] (Single Responsability Principle).
+Sem contar com a tendência deles de com o aumentar do projeto, ficar cada vez com mais dependências e mais inchados, isso causa uma enorme dificuldade de manutenção dos controllers, onde existe intricadamente no conceito do controller uma violação do [[SRP]] (Single Responsability Principle).
 
