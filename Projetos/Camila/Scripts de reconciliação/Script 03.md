@@ -1,0 +1,3 @@
+#Relacionamento 
+
+O tempo que passamos juntos sempre significa muito para mim, e é natural que em alguns momentos a gente se perca em sentimentos e expectativas. Sei que algumas situações podem gerar desconforto e que nem sempre consigo expressar da melhor forma o que realmente sinto. Mas o que importa é que eu reconheço isso e quero que você saiba que sua presença é essencial para mim. Me desculpa se, de alguma forma, eu contribuí para qualquer sensação ruim. O que temos é mais forte do que qualquer momento difícil, e eu só quero que você se sinta bem ao meu lado.

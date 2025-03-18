@@ -1,0 +1,3 @@
+#Relacionamento 
+
+Às vezes, as palavras falham em expressar a intensidade das coisas que sentimos. Eu sei que os momentos difíceis surgem não porque queremos, mas porque nos importamos. Se algo que fiz ou disse te machucou, me desculpa. Nunca foi minha intenção criar qualquer distância entre nós. No fim, o que importa não são as pequenas diferenças, mas o que estamos construindo juntos, e isso é muito maior do que qualquer instante de desencontro. Quero que saiba que você é importante para mim e que nada muda isso.

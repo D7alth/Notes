@@ -1,0 +1,3 @@
+#Relacionamento 
+
+Nem sempre conseguimos traduzir em palavras o que se passa dentro da gente, mas isso não significa que não sentimos com profundidade. Às vezes, as emoções falam mais alto e acabam nos levando para caminhos que nem imaginávamos, mas no final o que importa é que estamos aqui, construindo algo que tem valor. Se, de alguma maneira, eu causei incômodo ou frustração, eu lamento. Quero que a gente siga em frente com leveza, porque o que temos é maior do que qualquer instante de desencontro

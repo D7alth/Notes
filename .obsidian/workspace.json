@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "5fa44061c4d2d647",
+    "id": "56495efb14806831",
     "type": "split",
     "children": [
       {
-        "id": "31b345aeeedbb9bb",
+        "id": "32930c79d834bfd1",
         "type": "tabs",
         "children": [
           {
-            "id": "88a703ed974feb36",
+            "id": "dcf641e6d5c4ab00",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b6ebf97ce2c96cfe",
+    "id": "6fe16da52813ecec",
     "type": "split",
     "children": [
       {
-        "id": "d624abf867ca15f3",
+        "id": "3b3bccc4afe355f1",
         "type": "tabs",
         "children": [
           {
-            "id": "0c999dba5aed978e",
+            "id": "096508515b3be4ae",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "8e27f281694a4c83",
+            "id": "68eafa6d8c475698",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AspNet",
+                "query": "tag:#Relacionamto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "383ae2f341dce925",
+            "id": "fb9fb4eaa3a951fd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 271.5
   },
   "right": {
-    "id": "772d919af21adf63",
+    "id": "d8fbc4fdaabe23a9",
     "type": "split",
     "children": [
       {
-        "id": "816e0ccdcd264f8a",
+        "id": "311221ff07bfe787",
         "type": "tabs",
         "children": [
           {
-            "id": "868dd5cec46baf3f",
+            "id": "85b81a243a379cb7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workspace/Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Calculadora de TCO.md",
+                "file": "Projetos/Digibee Developer/Arquitetura da plataforma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,52 +100,55 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Calculadora de TCO"
+              "title": "Links inversos para Arquitetura da plataforma"
             }
           },
           {
-            "id": "8b08e142f51aa703",
+            "id": "38d77333d3587d23",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workspace/Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Calculadora de TCO.md",
+                "file": "Projetos/Digibee Developer/Arquitetura da plataforma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Calculadora de TCO"
+              "title": "Links de saída para Arquitetura da plataforma"
             }
           },
           {
-            "id": "b47db0f61fb0cf72",
+            "id": "3be1b8c8e74a2f77",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "f9b6bbded960e00c",
+            "id": "093a9bd8a09b23d6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Projetos/Digibee Developer/Arquitetura da plataforma.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Arquitetura da plataforma"
             }
           },
           {
-            "id": "c63c9fc407afabc6",
+            "id": "70b07a4427a60eaf",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -153,75 +156,94 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6082aea5c89cdf17",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "41c626c89fcfe62e",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pomodoro-timer:Toggle timer panel": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-kanban:Criar um novo quadro": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "tldraw:Create new tldrawing": false
     }
   },
-  "active": "0c999dba5aed978e",
+  "active": "dcf641e6d5c4ab00",
   "lastOpenFiles": [
-    "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento/Redundância de Aramazenamento.md",
-    "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento/Contas de armazenamento.md",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais.md",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Redes virtuais privadas Azure.md",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Maquinas virtuais.md",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Functions.md",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/ExpressRoute.md",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Containers.md",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede/Area de trabalho virtual.md",
-    "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso/Serviços de diretório.md",
-    "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso/Métodos de autenticação do Azure.md",
-    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Fatores que podem afetar os custos no Azure.md",
-    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Calculadora de TCO.md",
-    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos/Calculadora de preço.md",
-    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Tipos de serviços de nuvem.md",
-    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Conceitos de nuvem.md",
-    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Computação em nuvem.md",
-    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem/Benefícios da nuvem.md",
-    "Projetos/Certificações Azure/AZ 204/Serviços de Aplicações/Planos se serviços.md",
+    "Notas/2025/Março/Dia 13.md",
+    "Notas/2025/Março/Tldraw 2025-03-12 3.42PM.md",
+    "Assets/c0def049-e570-4fb0-9fc0-8f287b93614c-tldrawFile.png",
+    "Notas/2025/Março/Dia 12.md",
     "Projetos/English/Tenses/Present Simple/Present simple.md",
-    "Projetos/Certificações Azure/AZ 204/Serviços de Aplicações/Implantação.md",
-    "Projetos/Certificações Azure/AZ 204/Serviços de Aplicações/Overview.md",
-    "Projetos/Freelas/Bike/Sem título.md",
-    "Projetos/Certificações Azure/AZ 900/Serviços de Armazenamento",
-    "Projetos/Certificações Azure/AZ 900/Recursos de computação e rede",
-    "Projetos/Certificações Azure/AZ 900/Provisionamento de recursos.md",
-    "Projetos/Certificações Azure/AZ 900/Identidade e segurança de acesso",
-    "Projetos/Certificações Azure/AZ 900/Gerenciamento de custos",
-    "Projetos/Certificações Azure/AZ 900/Conceitos de nuvem",
-    "Projetos/Certificações Azure/AZ 900/Azure Marketplace.md",
-    "Projetos/Certificações Azure/AZ 204/Serviços de Aplicações",
-    "Projetos/English/Tenses/Present Simple",
     "Projetos/English/Tenses/Overview.md",
-    "Projetos/Freelas/Bike",
-    "Projetos/Certificações Azure/AZ 900",
-    "Projetos/Certificações Azure/AZ 204",
+    "Faculdade/Aplicativos Mobile/Sintaxe e Componentes do React Native.md",
+    "Projetos/Camila/Estratégias.md",
+    "Notas/2025/Março/Dia 10.md",
+    "Notas/2025/Março/WB dia 10.md",
+    "Notas/2025/Março/Dia 11.md",
+    "Sem título 1",
+    "Faculdade/Aplicativos Mobile",
+    "Faculdade",
+    "Projetos/Camila/Perfil.md",
+    "Projetos/Camila/Scripts de reconciliação/Script 01.md",
+    "Projetos/Camila/Notas/Datas.md",
+    "Projetos/Camila/Notas/Conversas Rotacionais.md",
+    "Projetos/Camila/Scripts de reconciliação/Scripts de reconciliação.md",
+    "Projetos/Camila/Scripts de reconciliação/Script 04.md",
+    "Projetos/Camila/Scripts de reconciliação/Script 03.md",
+    "Projetos/Camila/Scripts de reconciliação/Script 02.md",
+    "Projetos/Camila/Scripts de reconciliação",
+    "Projetos/Camila/Sem título",
+    "Projetos/Camila/Mensgens",
+    "Projetos/Camila/Notas",
+    "Projetos/Camila",
+    "Notas/2025/Março",
+    "Projetos/Code/CodeWars/58ad317d1541651a740000c5/Tldraw 2025-03-06 12.00PM.md",
+    "Projetos/Code/CodeWars/58ad317d1541651a740000c5/Organização.md",
+    "Projetos/Code/CodeWars/58ad317d1541651a740000c5/Ideias.md",
+    "Projetos/Code/CodeWars/58ad317d1541651a740000c5",
+    "Notas/2025/Fevereiro/Dia 27.md",
+    "Notas/2025/Fevereiro/WB Dia 27.md",
+    "Notas/2025/Fevereiro/WB Dia 20.md",
+    "Notas/2025/Fevereiro/Dia 25.md",
+    "Sem título.canvas",
     "Assets/Pasted image 20250130152510.png",
     "Assets/Pasted image 20250123091918.png",
     "Assets/Pasted image 20250123084427.png",
     "Assets/Pasted image 20250117093527.png",
+    "Assets/Pasted image 20250107162256.png",
     "Assets/Pasted image 20250108170857.png",
     "Assets/Pasted image 20250108101218.png",
     "Assets/Pasted image 20250108101154.png",
-    "Assets/Pasted image 20241219132922.png",
-    "Assets/Pasted image 20250107162256.png",
-    "Assets/Pasted image 20241216123626.png",
-    "AZ 900/Sem título.canvas",
-    "Sem título.canvas"
+    "Assets/Pasted image 20241219132922.png"
   ]
 }
