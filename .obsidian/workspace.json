@@ -11,10 +11,26 @@
             "id": "dcf641e6d5c4ab00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "A Última Lâmina – O Duelo dos Séculos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Última Lâmina – O Duelo dos Séculos"
+            }
+          },
+          {
+            "id": "90d560bc889d659c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/53a43df2-6788-44d6-b416-799e44f40362-tldrawFile.png"
+              },
+              "icon": "lucide-image",
+              "title": "53a43df2-6788-44d6-b416-799e44f40362-tldrawFile"
             }
           }
         ]
@@ -199,16 +215,26 @@
   },
   "active": "dcf641e6d5c4ab00",
   "lastOpenFiles": [
+    "Notas/2025/Março/WB dia 18.md",
+    "Assets/53a43df2-6788-44d6-b416-799e44f40362-tldrawFile.png",
+    "Assets/1df316dd-21c8-44e4-8de9-f152af410513-tldrawFile.png",
+    "A Última Lâmina – O Duelo dos Séculos.md",
+    "Notas/2025/Março/Dia 18.md",
+    "Assets/4686ec92-706e-4386-b517-f4d5ed529c43-tldrawFile.png",
+    "Assets/4873e1bc-f5af-44e0-a6f6-d671efff51c4-tldrawFile.png",
     "Notas/2025/Março/Dia 13.md",
-    "Notas/2025/Março/Tldraw 2025-03-12 3.42PM.md",
+    "Notas/2025/Março/WB dia 10.md",
+    "Projetos/Digibee Developer/Arquitetura da plataforma.md",
+    "Modelos/Notas.md",
+    "Dicionário técnico/DAST.md",
     "Assets/c0def049-e570-4fb0-9fc0-8f287b93614c-tldrawFile.png",
+    "Faculdade/Aplicativos Mobile/Sintaxe e Componentes do React Native.md",
+    "Notas/2025/Março/Tldraw 2025-03-12 3.42PM.md",
     "Notas/2025/Março/Dia 12.md",
     "Projetos/English/Tenses/Present Simple/Present simple.md",
     "Projetos/English/Tenses/Overview.md",
-    "Faculdade/Aplicativos Mobile/Sintaxe e Componentes do React Native.md",
     "Projetos/Camila/Estratégias.md",
     "Notas/2025/Março/Dia 10.md",
-    "Notas/2025/Março/WB dia 10.md",
     "Notas/2025/Março/Dia 11.md",
     "Sem título 1",
     "Faculdade/Aplicativos Mobile",
@@ -228,22 +254,12 @@
     "Projetos/Camila",
     "Notas/2025/Março",
     "Projetos/Code/CodeWars/58ad317d1541651a740000c5/Tldraw 2025-03-06 12.00PM.md",
-    "Projetos/Code/CodeWars/58ad317d1541651a740000c5/Organização.md",
-    "Projetos/Code/CodeWars/58ad317d1541651a740000c5/Ideias.md",
     "Projetos/Code/CodeWars/58ad317d1541651a740000c5",
-    "Notas/2025/Fevereiro/Dia 27.md",
-    "Notas/2025/Fevereiro/WB Dia 27.md",
-    "Notas/2025/Fevereiro/WB Dia 20.md",
-    "Notas/2025/Fevereiro/Dia 25.md",
     "Sem título.canvas",
     "Assets/Pasted image 20250130152510.png",
     "Assets/Pasted image 20250123091918.png",
     "Assets/Pasted image 20250123084427.png",
     "Assets/Pasted image 20250117093527.png",
-    "Assets/Pasted image 20250107162256.png",
-    "Assets/Pasted image 20250108170857.png",
-    "Assets/Pasted image 20250108101218.png",
-    "Assets/Pasted image 20250108101154.png",
-    "Assets/Pasted image 20241219132922.png"
+    "Assets/Pasted image 20250107162256.png"
   ]
 }
