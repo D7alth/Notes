@@ -1,4 +1,4 @@
-#TechDictionary #SystemDesing
+#TechNotes  #TechDictionary #SystemDesing
 
 Trata-se de uma técnica de particionamento de dados, especialmente útil quando se trata de escalonamento horizontal, ou seja, como detalhado em [[Benefícios da nuvem]], aumentar o contingente de maquinas para resolver ou suprimir uma demanda ou se adaptar a uma carga. 
 

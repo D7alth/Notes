@@ -1,3 +1,4 @@
+#Network #TechDictionary #TechNotes 
 ### Cenário de exemplo 
 
 Temos o seguinte diagrama para exemplificar um processo de requisição síncrona: 

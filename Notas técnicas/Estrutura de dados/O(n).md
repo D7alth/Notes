@@ -1,3 +1,5 @@
+#DataStructures #TechDictionary #TechNotes 
+
 Esse tipo de notação e descrito como uma linha de "**Crescimento linear**" no gráfico, isso se da ao fato de,  o crescimento do tempo de execução da função cresce proporcionalmente ao tamanho do input.
 ### Exemplos reais
 **Cenário 01**

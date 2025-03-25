@@ -1,3 +1,5 @@
+#Security #TechDictionary #TechNotes 
+
 Princípios / boas praticas relacionadas a segurança de código. 
 
 A Sigla significa **Static Appliction Security Testing**.

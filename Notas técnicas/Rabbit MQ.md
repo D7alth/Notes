@@ -1,3 +1,5 @@
+#Network #TechDictionary #TechNotes
+
 Os dois componentes mais ementais e fundamentais para entendermos o funcionamento e a necessidade do Rabbit são, além do conceito geral de [[Mensageria]] e [[Event Sourcing]]:
 
 - Filas:

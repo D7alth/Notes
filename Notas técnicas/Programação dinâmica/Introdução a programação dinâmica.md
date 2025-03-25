@@ -1,3 +1,5 @@
+#TechDictionary #TechNotes 
+
 Programação dinâmica, se trata de um conjunto de processos, que são utilizados para resolver vários problemas de algoritmos em tempo polinomial O (log n).
 
 Dentro da definição, existem algumas propriedades que caracterizam essa programação dinâmica, podemos começar por.

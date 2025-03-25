@@ -1,3 +1,5 @@
+#Patterns #TechDictionary #TechNotes 
+
 Um padrão interessante, o qual visa, simplificar o processo de desenvolvimento de API's, tipicamente relacionado ao padrão arquitetural [[MVC]], e análogo ao padrão "[[Vertical Slice]]". 
  
 A ideia geral, e o ponto mais forte desse padrão e tentar relacionar a camada logica, não a um controller como no caso do [[MVC]], mas sim a um componente que abraça toda logica de processamento de um ponto de extremidade, isso incluindo desde o recebimento e tratativa das requests a sua resolução e devolutiva. Na pratica, seria o mesmo que falar que teríamos pelo menos uma classe, cujo o único objetivo, seria tratar a logica relacionada a uma endpoint.   

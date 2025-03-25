@@ -1,4 +1,4 @@
-#AspNet #TechDictionary #EntityFramework
+#AspNet #EntityFramework #TechNotes
 
 ## OwnsMany
 

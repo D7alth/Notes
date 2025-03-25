@@ -1,8 +1,8 @@
 ---
-
 tldraw-file: true
-tags: [tldraw]
-
+tags:
+  - tldraw
+  - Craft
 ---
 ![[53a43df2-6788-44d6-b416-799e44f40362-tldrawFile.png]]
 ^53a43df2-6788-44d6-b416-799e44f40362

@@ -1,3 +1,5 @@
+#Pessoal #Livros
+
 Hajime Kashimo sentiu a eletricidade pulsando sob sua pele, uma tempestade contida esperando para ser libertada. Seu sangue cantava nas veias, uma melodia familiar de batalha que deixava seus sentidos à flor da pele. Um sorriso genuíno espalhou-se pelo seu rosto. Este era o momento pelo qual havia vivido, pelo qual havia retornado.
 
 Diante dele estava Musashi.

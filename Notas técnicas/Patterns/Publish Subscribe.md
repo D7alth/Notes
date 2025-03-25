@@ -1,3 +1,5 @@
+#Patterns #TechDictionary #TechNotes 
+
 O padrão Pub/Sub (Publisher/Subscriber) e um modelo arquitetural e um padrão de 
 comunicação assíncrona e orientada a eventos. Relacionada a sistemas distribuídos.
 

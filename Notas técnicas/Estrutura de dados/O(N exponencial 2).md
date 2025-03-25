@@ -1,3 +1,5 @@
+#DataStructures #TechDictionary #TechNotes 
+
 Esse tipo de notação e descrito como uma linha "Constante Exponencial", isso se da ao fato de,  o tempo de execução de operação ser quadraticamente proporcional ao tamanho do input.
 
 A maior parte das operações onde teríamos que repetir a função N vezes, para quais quer que seja o fim, poderiam se classificado como quadraticamente proporcional.

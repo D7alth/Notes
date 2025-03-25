@@ -1,3 +1,5 @@
+#Network #TechDictionary #TechNotes 
+
 Esse modelo descreve uma relação mais aprofundada entre os componentes que compõem a internet, quando falo em modelo OSI, predominantemente estou falando de protocolos de comunicação de redes. 
 
 O modelo tem como base em 7 camadas diferentes (Layers), as quais manipulam as informações de maneiras diferentes, para propósitos diferentes, elas são: 

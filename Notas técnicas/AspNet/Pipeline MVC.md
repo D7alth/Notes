@@ -1,4 +1,4 @@
-#AspNet
+#AspNet #TechNotes
 
 A pipeline no ASP.NET é composta por série de middlewares que manipulam solicitações e respostas relacionadas às requisições HTTP. Essa estrutura e extensível e customizável, o que permite adaptar o fluxo de execução conforme as necessidades do aplicativo. 
 ### Middlewares

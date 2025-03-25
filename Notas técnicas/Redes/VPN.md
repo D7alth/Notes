@@ -1,4 +1,4 @@
-
+#Network #TechDictionary #TechNotes 
 ## Definição geral
 
 Por definição, as redes virtuais privadas ou VPNs, se tratam de túneis criptografados, que visam conectar dois pontos seguros por um meio inseguro. 

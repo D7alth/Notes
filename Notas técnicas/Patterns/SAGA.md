@@ -1,5 +1,6 @@
-Aplicado entre microsserviços em cenários de transação distribuída.
+#Patterns #TechDictionary #TechNotes 
 
+Aplicado entre microsserviços em cenários de transação distribuída.
 ### Ideia geral
 
 A ideia desse pattern e não criar mas atribuir em uma sequencia de transações distribuídas em diversos serviços, "**mensagens**" ou "**registros**" dessas transações em cada um dos serviços. 

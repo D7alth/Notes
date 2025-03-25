@@ -1,3 +1,5 @@
+#Network #TechDictionary #TechNotes 
+
 Trata-se de uma topologia baseada em [[Getway]] de VPN, a qual cira uma ligação entre redes diferentes da mesma organização, as quais vão trocar informações. 
 
 A VPN fornecesse esse recurso, cirando um Link criptografado entre os [[getway]]s em cada uma das extremidades.

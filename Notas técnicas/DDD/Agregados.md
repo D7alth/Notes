@@ -1,3 +1,5 @@
+#DDD #TechDictionary #TechNotes
+
 Agregados são definidos como um **Clouster de objetos de domínio** (Entidades, Value Objects, Enums, etc..) tratados como um **unidade coesa** para garantir a consistência nas regras de domino.
 
 **Parafraseando Elemar Jr.** _"Agregados são um Ilha de código coeso e conciso"_.
